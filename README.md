@@ -18,5 +18,34 @@ This project was created as part of the CodeAlpha Internship Tasks.
 - Object-Oriented Programming (OOP)
 - Console-based application
 
+2 Hotel System Management
+
+A Hotel Management System developed using Java Swing that allows hotel staff to manage room bookings through a simple and user-friendly graphical interface.
+
+This project is created as part of the CodeAlpha Internship Tasks.
+
+ ✨ Features
+- Book hotel rooms (Standard, Deluxe, Suite)
+- Add customer details (name & phone number)
+- View all current bookings
+- Prevents double booking of rooms
+- Simple and interactive GUI using Java Swing
+- Object-Oriented Programming (OOP) based design
+
+ 🛠 Technologies Used
+- Java
+- Java Swing (GUI)
+- OOP Concepts
+- Collections 
+
+ 📂 Project Structure
+ 
+── HotelManagementSystem.java
+── Room.java
+── Booking.java
+── Customer.java
+
+
+
  
  
